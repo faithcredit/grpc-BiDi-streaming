@@ -1,4 +1,4 @@
-# Golang gRPC bidirectional streaming example
+# Golang gRPC bidirectional streaming
 
 - client sends random numbers to server
 - server receives number and sends it back if the number greater than all previous numbers
